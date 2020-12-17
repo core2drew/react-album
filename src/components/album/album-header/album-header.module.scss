@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  margin-right: auto;
+}
+
+.separator {
+  display: inline-block;
+  width: 2px;
+  background-color: #000;
+  height: 15px;
+  margin: 0 10px;
+}

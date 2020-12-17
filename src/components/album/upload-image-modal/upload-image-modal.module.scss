@@ -1,0 +1,26 @@
+.dragNDrop {
+  border: 1px dashed #000;
+  padding: 20px;
+}
+
+.filesSelected {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.file {
+  display: none;
+}
+
+.preview {
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
+}
